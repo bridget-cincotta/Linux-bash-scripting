@@ -26,3 +26,8 @@ echo "please input another number: "; read b
 sum=$((a+b));
 
 echo "the result of summation is $sum";
+
+#user input using custom message 
+
+read -p "please input your name: " nama
+echo "hallo $nama";
