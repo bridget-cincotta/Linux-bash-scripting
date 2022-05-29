@@ -31,3 +31,4 @@ echo "the result of summation is $sum";
 
 read -p "please input your name: " nama
 echo "hallo $nama";
+
